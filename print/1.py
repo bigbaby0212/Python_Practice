@@ -1,1 +1,1 @@
-A, B = int(input()).split('')
+print('Hello World!')
